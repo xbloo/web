@@ -14,6 +14,7 @@ const Routes = props => {
 
             </Switch>
             <div></div>
+            <div>/</div>
         </Layout>
     );
 };
