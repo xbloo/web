@@ -13,6 +13,7 @@ const Routes = props => {
                 <Route path="/"  exact component={Home} />
 
             </Switch>
+            <div></div>
         </Layout>
     );
 };
